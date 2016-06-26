@@ -1,0 +1,13 @@
+const add = 1, sub = 2, mult = 3, div = 4;
+var op, x, y;
+
+procedure add;
+    begin
+    x := x + y
+    end;
+
+
+begin
+    x := 5
+
+end.
